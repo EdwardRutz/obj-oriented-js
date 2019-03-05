@@ -1,0 +1,12 @@
+{
+  "name": "obj-oriented-js",
+  "version": "1.0.0",
+  "description": "> A demonstration of Object Oriented JavaScript and ES2015.",
+  "main": "object-literal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
